@@ -6,3 +6,5 @@ The falling objects are made of two shapes each(An outer Circle having  a  small
 completely onside it)and they can be destroyed only when the shuriken circumference will lie between the two shapes
 of falling objects  ( the shuriken is completely inside the outer circle and the inner shape of falling object is
 completely inside the  shuriken circumference ) .
+link of gamepaly video-
+https://www.youtube.com/watch?v=oYjBNR1mNpU
