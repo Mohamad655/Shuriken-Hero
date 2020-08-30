@@ -10,3 +10,7 @@ completely inside the  shuriken circumference ) .
 Link of gamepaly video:-
 
 https://www.youtube.com/watch?v=oYjBNR1mNpU
+
+itch.io link from where you can download the game-
+
+https://mohamad655.itch.io/shuriken-hero-a-hyper-casual-game
